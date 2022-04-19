@@ -29,7 +29,7 @@ address(this).balance : variable dari tipe alamat selalu memiliki property yang 
 ## Deploy the Smart Contract
 Buka Plugin Deploy dan Run Transactions dan terapkan Smart Contract ke dalam JavaScript VM:
 ![App Screenshot](https://github.com/SULTANCHISSONOBIE/BELAJAR-BLOCKCHAIN/blob/main/UTS/LAB1/Documentation/Picture2.png)
-Klik button Deploy pojok kiri bawah
+Klik button Deploy pojok kiri bawah 
 ![App Screenshot](https://github.com/SULTANCHISSONOBIE/BELAJAR-BLOCKCHAIN/blob/main/UTS/LAB1/Documentation/Picture3.png)
 
 ## Mengirim beberapa Ether ke Smart Contract
